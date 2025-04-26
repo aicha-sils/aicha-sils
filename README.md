@@ -1,4 +1,4 @@
-## im currently learning how to use github and how to program if u have any tips ill be greatful
+## here ill upload all my python projects 
 
 <!--
 **aicha-sils/aicha-sils** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
